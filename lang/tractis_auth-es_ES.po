@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tractis Certified Profiles for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-19 17:59+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jose Luis Gordo Romero <jose.gordo@tractis.com>\n"
+"Language-Team: Tractis <info@tractis.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: tractis_auth.php:140
+msgid "Settings"
+msgstr "Preferencias"
+
+#: tractis_ui.php:16
+msgid "Problem: Your PHP installation doesn't have the openssl module enabled. Is required for communicate with Tractis in https (secure mode), see the <a href='http://php.net/manual/en/book.openssl.php'>php manual</a> to get more info."
+msgstr "Problema: Tu instalación de PHP no tiene el módulo de openssl habilitado. Es necesario para poderse comunicar con Tractis vía https (modo seguro), puedes encontrar más información en el <a href='http://php.net/manual/en/book.openssl.php'>manual de PHP</a>."
+
+#: tractis_ui.php:24
+msgid "Warning: The default role for new users in your WordPress config is: "
+msgstr "Atención: El rol por defecto para usuarios nuevos en tu configuración de WordPress es: "
+
+#: tractis_ui.php:25
+msgid "Set your blog's default role for users to \"subscriber\" (Settings->New User Default Role) unless you want identifed users to publish and/or manage content. Read more about roles <a href='http://codex.wordpress.org/Roles_and_Capabilities'>here</a>."
+msgstr "Configura el rol por defecto de los usuarios de tu blog como \"subscriber\" (Preferencias->New User Default Role) a menos que quieras que los usuarios identificados puedan publicar y/o gestionar contenido. Lee más sobre los roles <a href='http://codex.wordpress.org/Roles_and_Capabilities'>aquí</a>."
+
+#: tractis_ui.php:38
+msgid "Settings Updated. (Warning, the api key must be filled to work)"
+msgstr "Preferencias actualizadas. (Atención, tienes que configurar la API Key para que funcione)"
+
+#: tractis_ui.php:40
+msgid "Settings Updated."
+msgstr "Preferencias actualizadas."
+
+#: views/ui_settings.php:12
+msgid "Tractis Identity Verifications Settings"
+msgstr "Preferencias de las Verificaciones de Identidad de Tractis"
+
+#: views/ui_settings.php:14
+msgid "Plugin setup"
+msgstr "Configuración del plugin"
+
+#: views/ui_settings.php:19
+msgid "Tractis API Key"
+msgstr "Tractis API Key"
+
+#: views/ui_settings.php:23
+msgid "Get your API Key from Tractis"
+msgstr "Obtén tu API Key en Tractis"
+
+#: views/ui_settings.php:30
+msgid "Plugin Button"
+msgstr "Botón del plugin"
+
+#: views/ui_settings.php:31
+msgid "Tractis Plugin Button"
+msgstr "Botón del plugin de Tractis"
+
+#: views/ui_settings.php:51
+msgid "Discussion Settings"
+msgstr "Preferencias de discusión"
+
+#: views/ui_settings.php:55
+#: views/ui_settings.php:56
+msgid "Comment Aproval"
+msgstr "Aprobación de comentarios"
+
+#: views/ui_settings.php:57
+msgid "Comments from users with verified identities will be aprooved automatically."
+msgstr "Los comentarios de usuarios con identidades verificadas serán aprobados automáticamente."
+
+#: views/ui_settings.php:59
+msgid "Comments from users with verified identities will require aprooval according to the blog configuration."
+msgstr "Los comentarios de usuarios con identidades verificadas requerirán aprobación de acuerdo a la configturación del blog."
+
+#: views/ui_settings.php:64
+msgid "Update Settings"
+msgstr "Actualizar Preferencias"
+
+#~ msgid "User profile"
+#~ msgstr "Perfil del usuario"
+
